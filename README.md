@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Cafe Blog**
 
-- 🌱 I’m currently learning **Next.js** and honing my skills in modern web development
+- 🌱 I’m currently learning **Next.js** 
 
 - 📫 How to reach me: **angelayu8800@gmail.com**
 
