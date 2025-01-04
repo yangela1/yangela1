@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
 <h3 align="center">A recent CS graduate with a focus on ☁ Cloud Computing and DevOps!</h3>
 
-- 🔭 I’m currently working on **My Cafe Blog**
+- 🔭 I’m currently working on ☕**Cafe Bookworm**, my cafe review blog
 
 - 🌱 I’m currently learning **Next.js** 
 
-### ✔️ My passion projects:
+### 💖 My passion projects:
   - [LingoBot](https://github.com/yangela1/LingoBot): A fun word-game bot for Discord servers
-  - My Cafe Blog: A project where I combine my love for cafes with tech, exploring dynamic web development using Next.js, AI, and DevOps practices
+  - Cafe Bookworm: A project where I combine my love for cafes with tech, exploring dynamic web development using Next.js, AI, and DevOps practices
     
 ### ⭐ My favourite projects:
-  - [Studopet](https://github.com/DTMcrae/QDSTeam25): QDS Hacks 2024 Top 8 finalist, virtual pet webapp game and motivational tool 
-  - [AdvenTour](https://github.com/rubyred139/2800-202310-BBY02): A course project, AI-powered travel recommendation website
-  - [ribbit-rates](https://github.com/azuchibean/ribbit-rates): A currency-exchange platform leveraging Amazon AWS products
+  - [Studopet](https://github.com/yangela1/Studopet): QDS Hacks 2024 Top 8 finalist, virtual pet webapp game and motivational tool 
+  - [AdvenTour](https://github.com/yangela1/AdvenTour): A course project, AI-powered travel recommendation website
+  - [ribbit rates](https://github.com/yangela1/ribbit-rates): A currency-exchange platform leveraging Amazon AWS products
 
 ## Connect with me
 <!-- Align Center -->
