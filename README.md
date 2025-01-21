@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
-<h3 align="center">A recent CS graduate with a focus on ☁ Cloud Computing and DevOps!</h3>
+<h3 align="center">A CS graduate with a focus on ☁ Cloud Computing and DevOps!</h3>
 
 - 🔭 I’m currently working on ☕**Cafe Bookworm**, my cafe review blog
 
