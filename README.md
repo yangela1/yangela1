@@ -10,7 +10,8 @@
   - [Cafe Bookworm](https://github.com/yangela1/cafe_bookworm): A project where I combine my love for cafes with tech, exploring dynamic web development using Next.js, AI, and DevOps practices
     
 ### ⭐ My favourite projects:
-  - [Studopet](https://github.com/yangela1/Studopet): QDS Hacks 2024 Top 7 finalist, virtual pet webapp game and motivational tool 
+  - [Studopet](https://github.com/yangela1/Studopet): QDS Hacks 2024 Top 7 finalist, virtual pet webapp game and motivational tool
+  - [StepsApp](https://github.com/yangela1/StepsApp): API server that processes user inputs and delivers location-based recommendations, powered by a Hugging Face LLM model
   - [AdvenTour](https://github.com/yangela1/AdvenTour): A course project, AI-powered travel recommendation website
   - [ribbit rates](https://github.com/yangela1/ribbit-rates): A currency-exchange platform leveraging Amazon AWS products
 
