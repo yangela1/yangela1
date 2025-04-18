@@ -7,7 +7,7 @@
 
 ### 💖 My passion projects:
   - [LingoBot](https://github.com/yangela1/LingoBot): A fun word-game bot for Discord servers
-  - [Cafe Bookworm](https://github.com/yangela1/cafe_bookworm): A project where I combine my love for cafes with tech, exploring dynamic web development using Next.js, AI, and DevOps practices
+  - [Cafe Bookworm](https://github.com/yangela1/cafe-bookworm): A project where I combine my love for cafes with tech, exploring dynamic web development using Next.js, AI, and DevOps practices
     
 ### ⭐ My favourite projects:
   - [Studopet](https://github.com/yangela1/Studopet): QDS Hacks 2024 Top 7 finalist, virtual pet webapp game and motivational tool
